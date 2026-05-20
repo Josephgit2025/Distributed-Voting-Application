@@ -64,7 +64,8 @@ This application implements a simple yet robust voting system with an architectu
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd T-DOP-501-NAN_joseph-marie-bile
+   cd Distributed-Voting-Application
+
    ```
 
 2. **Configure environment variables**
